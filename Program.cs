@@ -1,18 +1,16 @@
 ﻿/* This file was developed on 20-03-2024 , duration of development was ~ 3 hours
 
-During the sitting hours of 10:00 to 14:32 , which included breakfast and lunch breaks and occasional use of phone to publish important/urgent messages.
+During the sitting hours of 10:00 to 14:32 , which included breakfast and lunch break, occasional use of phone to send important/urgent messages, adding and cleaning comments.
 
 key highlights: 
 for temperature.dat file, day with minimum difference of Max and min temperature value is computed.
 for socker.dat file, city with minimum absolute difference between for and against is computed.
 
 Drawbacks :
-Structure could be improved but the time duration of 3 hours posed an issue.
+Structure could be improved but the time limit of 3 hours posed an issue.
 Object oriented code structure could have been implemented if more time was available.
 
 */
-
-
 
 using System;
 using System.IO;
