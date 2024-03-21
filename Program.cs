@@ -1,4 +1,4 @@
-﻿/* This file was developed on 20-03-2024 , duration of development was ~ 3 hours
+﻿/* This file was developed on 20-03-2024 , duration of development was ~ 2.5 hours (excluding comments)
 
 key highlights: 
 for temperature.dat file, day with minimum difference of Max and min temperature value is computed.
