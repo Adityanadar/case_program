@@ -1,6 +1,6 @@
 ﻿/* this is oops version of program.cs
 this file is created on 22-03-2024
-development time : ~1.5 hrs
+development time : ~1 hrs
 improves the previous version of program.cs by implementing oop concepts and better code readability.
 */
 
